@@ -7,19 +7,20 @@ An AI-powered travel planning web app built with Python and Streamlit. Enter you
 ## Screenshots
 
 ### Home
-![Home](screenshots/home.png)
+![Home](Screenshots/home.png)
 
 ### Flights
-![Flights tab](screenshots/flights.png)
+![Flights tab](Screenshots/flights.png)
 
 ### Stays & Eats
-![Stays and Eats tab](screenshots/stays.png)
+![Stays and Eats tab](Screenshots/stays.png)
 
 ### Itinerary
-![Itinerary tab](screenshots/itinerary.png)
+![Itinerary tab](Screenshots/itinerary.png)
 
 ### Weather
-![Weather tab](screenshots/weather.png)
+![Weather tab](Screenshots/weather.png)
+
 ## Features
 
 - **Flights:** Shows the 3 cheapest flight options (airline, price in INR, timings, duration) using Google Flights data through SerpAPI.
